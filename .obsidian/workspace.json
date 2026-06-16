@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-基础概念/01-向量与线性关系.md",
+                "file": "03-特征值与二次型/10-相似、对角化与二次型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-向量与线性关系"
+              "title": "10-相似、对角化与二次型"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "二次",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,10 +187,10 @@
   "active": "080378825d04af4c",
   "lastOpenFiles": [
     "90-考试复习/94-历年试题例题索引.md",
-    "01-基础概念/03-内积、正交与施密特正交化.md",
     "01-基础概念/02-向量组的秩与线性空间.md",
     "01-基础概念/01-向量与线性关系.md",
     "00-总览/线性代数总览.md",
+    "01-基础概念/03-内积、正交与施密特正交化.md",
     "90-考试复习/92-证明题模板.md",
     "90-考试复习/93-作业与考前训练清单.md",
     "90-考试复习/90-历年试卷题型分析.md",
